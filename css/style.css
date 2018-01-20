@@ -67,6 +67,10 @@ body .board .column-container .column .column-add-card {
   display: block;
 }
 
+body .board .column-container .column .card-list {
+  padding: 30px;
+}
+
 body .board .column-container .column .card-list .card {
   box-sizing: border-box;
   display: block;
