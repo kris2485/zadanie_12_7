@@ -1,3 +1,4 @@
+/*
 // scripts.js
 //Instrukcja, która sprawi, że nasz kod zacznie się wykonować dopiero po załadowania całego drzewa DOM
 $(function() {
@@ -140,3 +141,4 @@ $(function() {
 	todoColumn.addCard(card1);
 	doingColumn.addCard(card2);
 })
+*/
